@@ -2,7 +2,7 @@
 
 # 1. A screenshot of the console output immediately after running the withdraw command.
   
-  ![alt text](https://github.com/TanishqDsharma/nervous-network-task-9/blob/main/task11.png)
+  ![alt text](https://github.com/TanishqDsharma/nervous-network-task-9/blob/main/task9.png)
   
 
 # 2. The Ethereum address that you've used for your Layer 2 account (in text format).
